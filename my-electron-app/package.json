@@ -1,0 +1,16 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "teste inicial",
+  "repository": {
+    "type": "git",
+    "url": "primeiro-electron"
+  },
+  "license": "ISC",
+  "author": "Michele",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \\\"Erro\\\" && exit 1"
+  }
+}
